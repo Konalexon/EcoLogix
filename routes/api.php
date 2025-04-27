@@ -80,3 +80,5 @@ Route::middleware('auth:sanctum')->group(function () {
 // update 343 
 
 // u110
+
+// mhtcq9p
