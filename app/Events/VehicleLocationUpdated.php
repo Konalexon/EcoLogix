@@ -67,8 +67,3 @@ class VehicleLocationUpdated implements ShouldBroadcast
 // u368
 
 // u397
-
-// nv29yu6
-// u7rvxyu2
-// eau0536c
-// lrhtbv7n
