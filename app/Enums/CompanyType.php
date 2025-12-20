@@ -48,7 +48,3 @@ enum CompanyType: string
 // u127
 
 // u331
-
-// ufrofph7
-// hw3iyxdh
-// 0ezv0rcs
