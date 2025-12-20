@@ -68,5 +68,3 @@ readonly class DimensionsDTO
 // u342
 
 // u375
-
-// sh479k5e
