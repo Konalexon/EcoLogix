@@ -20,7 +20,3 @@ class Controller extends BaseController
 // update 198 
 
 // update 213 
-
-// uijrqmt
-// g2fmrfsk
-// z90wgdw
