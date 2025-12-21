@@ -58,8 +58,3 @@ class CompanyResource extends JsonResource
 // u304
 
 // u388
-
-// snnwtcwc
-// 5v0ig38
-// i4v1bm5
-// 8k0u8rok
