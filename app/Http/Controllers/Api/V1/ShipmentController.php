@@ -177,6 +177,3 @@ class ShipmentController extends Controller
 // u232
 
 // u358
-
-// ln6d54h
-// xqsxngpv
