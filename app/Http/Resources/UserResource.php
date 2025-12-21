@@ -46,5 +46,3 @@ class UserResource extends JsonResource
 // update 324 
 
 // update 411 
-
-// 2ws3njb9
