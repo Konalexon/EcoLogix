@@ -149,6 +149,3 @@ class ShipmentResource extends JsonResource
 // u382
 
 // u414
-
-// 0k2whhbk
-// beytjc2
