@@ -76,6 +76,3 @@ class RoutePointResource extends JsonResource
 // u113
 
 // u259
-
-// 26pi3w7l
-// 6gib1kh
