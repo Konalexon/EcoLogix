@@ -65,5 +65,3 @@ class GenerateWaybillJob implements ShouldQueue
 // u109
 
 // u140
-
-// 6nsj8n2
