@@ -74,6 +74,3 @@ class DriverProfileFactory extends Factory
 // u221
 
 // u295
-
-// 972hviq
-// 1w0o1vds
