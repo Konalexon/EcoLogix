@@ -85,6 +85,3 @@ class UserFactory extends Factory
 // update 340 
 
 // u283
-
-// irprsu19
-// wdeflanf
