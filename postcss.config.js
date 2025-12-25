@@ -30,6 +30,3 @@ export default {
 // u390
 
 // u411
-
-// hdel8w9w
-// 0h2u2q6k
