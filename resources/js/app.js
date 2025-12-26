@@ -29,5 +29,3 @@ console.log('EcoLogix app mounted successfully!');
 // update 375 
 
 // u181
-
-// u5b1qtw
