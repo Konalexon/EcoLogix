@@ -106,7 +106,3 @@ export const useShipmentsStore = defineStore('shipments', () => {
 // u143
 
 // u257
-
-// bwchlqpq
-// vjomfwa4
-// id1u4c2j
