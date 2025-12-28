@@ -18,6 +18,3 @@ Artisan::command('inspire', function () {
 // update 382 
 
 // u246
-
-// r3uymb4
-// j87k5zi
